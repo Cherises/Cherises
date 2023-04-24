@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cherises
-- 👀 I’m interested in Python and Linux
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Ni Chenyang
+- 👀 I’m interested in Python Java and Linux
+- 🌱 I’m currently learning SpringBoot+Thymeleaf+Mybatis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhaozhinet@gmail.com
 
