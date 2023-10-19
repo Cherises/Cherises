@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ni Chenyang
+- 👋 Hi, I’m Ni Comet
 - 👀 I’m interested in Python Java and Linux
 - 🌱 I’m currently learning SpringBoot+Thymeleaf+Mybatis
 - 💞️ I’m looking to collaborate on ...
