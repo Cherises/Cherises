@@ -64,24 +64,8 @@
 
 ---
 
-## 🌍 Connect with me  
-<div align="center">
-<a href="https://github.com/Cherises" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
----
-
 ## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cherises&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
----
-
-## 📝 Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  
-<!-- BLOG-POST-LIST:END -->  
 
 ---
 
