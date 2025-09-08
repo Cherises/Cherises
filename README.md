@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Cherises/Cherises/blob/main/actor-1.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Cherises/Cherises/blob/main/actor-1.jpg" align="center" style="width: 200px;height:200px" />
 </div>  
 
 # 👋 Hi, I'm Leonardo
