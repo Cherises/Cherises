@@ -8,8 +8,8 @@
 
 🌱 **Currently diving deep into:**
 - SpringBoot ecosystem
-- Thymeleaf templating
-- MyBatis persistence framework
+- Vue3 and TypeScript
+- SpringCloud Alibaba
 
 🛠️ **Tech Stack:**
 - Languages: Python, Java, JavaScript  
